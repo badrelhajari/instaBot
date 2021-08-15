@@ -43,8 +43,8 @@ class twitterBot:
 
 
 
-x='baderrdesigns'
-y='1995Ziko.'
-ed= twitterBot(x,y)
+username='xxxxxxxxxxxxxx'
+password='*******'
+ed= twitterBot(username,password)
 ed.login()
 ed.likeTweet('dimaraja')
